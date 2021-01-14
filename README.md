@@ -10,4 +10,4 @@ Here are some ideas to get you started:
  🌱 I’m currently learning Flutter.<br>
  👯 I’m looking to collaborate on new Projects.<br>
 
-[![Zulfa's github stats](https://github-readme-stats.vercel.app/api?username=Zulfa210)](https://github.com/Zulfa210/github-readme-stats)
+![Zulfa's github stats](https://github-readme-stats.vercel.app/api?username=Zulfa210&show_icons=true&theme=radical)
