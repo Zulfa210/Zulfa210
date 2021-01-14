@@ -5,8 +5,9 @@
 
 Here are some ideas to get you started:
 -->
- :computer: I'm currently studying Computer Engineering.<br>
+ :computer: Studying Computer Engineering.<br>
  🔭 I’m currently working on Full Stack Projects.<br>
  🌱 I’m currently learning Flutter.<br>
  👯 I’m looking to collaborate on new Projects.<br>
 
+[![Zulfa's github stats](https://github-readme-stats.vercel.app/api?username=Zulfa210)](https://github.com/Zulfa210/github-readme-stats)
