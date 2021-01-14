@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 -->
- :computer: I'm currently studying Computer Engineering.
- 🔭 I’m currently working on Full Stack Projects.
- 🌱 I’m currently learning Flutter.
- 👯 I’m looking to collaborate on new Projects.
+ :computer: I'm currently studying Computer Engineering.<br>
+ 🔭 I’m currently working on Full Stack Projects.<br>
+ 🌱 I’m currently learning Flutter.<br>
+ 👯 I’m looking to collaborate on new Projects.<br>
 
