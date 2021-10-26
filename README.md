@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
  :computer: Studying Computer Engineering.<br>
  🔭 I’m currently working on Full Stack Projects.<br>
- 🌱 I’m currently learning Flutter and Machine Learning.<br>
+ 🌱 I’m currently learning MERN Stack and Machine Learning.<br>
  👯 I’m looking to collaborate on new Projects.<br>
 
 ![Zulfa's github stats](https://github-readme-stats.vercel.app/api?username=Zulfa210&show_icons=true&theme=radical)
